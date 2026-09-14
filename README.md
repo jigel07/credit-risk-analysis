@@ -80,7 +80,7 @@ The High Risk group had a substantially higher observed default rate than the Lo
 
 ## Power BI Dashboard
 
-![Credit Risk Dashboard](credit-risk-dashboard.png)
+![Credit Risk Dashboard](dashboard/credit-risk-dashboard.png)
 
 
 The Power BI dashboard provides an interactive view of the analysis, including:
